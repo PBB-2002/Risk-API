@@ -1,0 +1,138 @@
+D:\Projects\RiskAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\RiskAPI\bin\Debug\net6.0\appsettings.json
+D:\Projects\RiskAPI\bin\Debug\net6.0\RiskAPI.exe
+D:\Projects\RiskAPI\bin\Debug\net6.0\RiskAPI.deps.json
+D:\Projects\RiskAPI\bin\Debug\net6.0\RiskAPI.runtimeconfig.json
+D:\Projects\RiskAPI\bin\Debug\net6.0\RiskAPI.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\RiskAPI.pdb
+D:\Projects\RiskAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\RiskAPI\obj\Debug\net6.0\RiskAPI.csproj.AssemblyReference.cache
+D:\Projects\RiskAPI\obj\Debug\net6.0\RiskAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RiskAPI\obj\Debug\net6.0\RiskAPI.AssemblyInfoInputs.cache
+D:\Projects\RiskAPI\obj\Debug\net6.0\RiskAPI.AssemblyInfo.cs
+D:\Projects\RiskAPI\obj\Debug\net6.0\RiskAPI.csproj.CoreCompileInputs.cache
+D:\Projects\RiskAPI\obj\Debug\net6.0\RiskAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\RiskAPI\obj\Debug\net6.0\RiskAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\RiskAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\RiskAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\RiskAPI\obj\Debug\net6.0\staticwebassets\msbuild.RiskAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\RiskAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RiskAPI.props
+D:\Projects\RiskAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RiskAPI.props
+D:\Projects\RiskAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RiskAPI.props
+D:\Projects\RiskAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\RiskAPI\obj\Debug\net6.0\scopedcss\bundle\RiskAPI.styles.css
+D:\Projects\RiskAPI\obj\Debug\net6.0\RiskAPI.csproj.Up2Date
+D:\Projects\RiskAPI\obj\Debug\net6.0\RiskAPI.dll
+D:\Projects\RiskAPI\obj\Debug\net6.0\refint\RiskAPI.dll
+D:\Projects\RiskAPI\obj\Debug\net6.0\RiskAPI.pdb
+D:\Projects\RiskAPI\obj\Debug\net6.0\RiskAPI.genruntimeconfig.cache
+D:\Projects\RiskAPI\obj\Debug\net6.0\ref\RiskAPI.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\appsettings.json
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\RiskAPI.exe
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\RiskAPI.deps.json
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\RiskAPI.runtimeconfig.json
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\RiskAPI.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\RiskAPI.pdb
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\RiskAPI.csproj.AssemblyReference.cache
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\RiskAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\RiskAPI.AssemblyInfoInputs.cache
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\RiskAPI.AssemblyInfo.cs
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\RiskAPI.csproj.CoreCompileInputs.cache
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\RiskAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\RiskAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\staticwebassets\msbuild.RiskAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RiskAPI.props
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RiskAPI.props
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RiskAPI.props
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\scopedcss\bundle\RiskAPI.styles.css
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\RiskAPI.csproj.Up2Date
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\RiskAPI.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\refint\RiskAPI.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\RiskAPI.pdb
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\RiskAPI.genruntimeconfig.cache
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\obj\Debug\net6.0\ref\RiskAPI.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\ProjectDataAccess.dll
+D:\Projects\Risk API Project\RiskAPI\RiskAPI\bin\Debug\net6.0\ProjectDataAccess.pdb
